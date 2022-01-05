@@ -1,0 +1,1 @@
+I just got through the starter chat guide of [Socket.IO](https://socket.io/get-started/chat) and made the "homework" at the bottom of the page too :)
